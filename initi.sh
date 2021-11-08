@@ -4,4 +4,4 @@ git add .
 git commit -m "updated"
 npm version 1.0.1
 npm publish
-git push https://github.com/shyamady/say-hello-world.git master:master
+git push https://github.com/shyamady/say-hello-world-2.git master:master

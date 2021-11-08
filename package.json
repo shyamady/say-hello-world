@@ -1,5 +1,5 @@
 {
-  "name": "say-hello-world",
+  "name": "say-hello-world-2",
   "version": "1.0.1",
   "description": "Say hello world NPM example",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shyamady/say-hello-world.git"
+    "url": "git+https://github.com/shyamady/say-hello-world-2.git"
   },
   "keywords": [
     "hello",
@@ -18,7 +18,7 @@
   "author": "Shun Yamada",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shyamady/say-hello-world/issues"
+    "url": "https://github.com/shyamady/say-hello-world-2/issues"
   },
-  "homepage": "https://github.com/shyamady/say-hello-world#readme"
+  "homepage": "https://github.com/shyamady/say-hello-world-2#readme"
 }
