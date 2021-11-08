@@ -5,7 +5,7 @@ It lets you just say "Hello World!".
 ## Installation
 
 ```
-npm install say-hello-world-2
+npm install say-hello-world-npm
 ```
 
 ## Usage
